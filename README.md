@@ -12,10 +12,6 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/FernandoNz/devChallenge_404-not-found">
-      Solution
-    </a>
-    <span> | </span>
     <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
       Challenge
     </a>
@@ -24,13 +20,6 @@
 
 <!-- TABLE OF CONTENTS -->
 
-## Table of Contents
-
-- [Overview](#overview)
-  - [Built With](#built-with)
-- [Features](#features)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
@@ -42,6 +31,4 @@
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
 
-## Contact
 
-- GitHub [@FernandoNz](https://github.com/FernandoNz)
